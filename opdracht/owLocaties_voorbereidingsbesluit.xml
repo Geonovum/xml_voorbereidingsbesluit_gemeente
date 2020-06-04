@@ -30,7 +30,7 @@
             <ow-dc:owObject>
                 <l:Gebied>
                     <l:identificatie>nl.imow-gm0037.gebied.2020000013</l:identificatie>
-                    <l:noemer>Karakteristieke gebouwen</l:noemer>
+                    <l:noemer>Karakteristiek pand</l:noemer>
                     <l:geometrie>
                         <l:GeometrieRef xlink:href="5ef3c497-cead-495f-8dff-6b3fc365f0b8"/>
                     </l:geometrie>

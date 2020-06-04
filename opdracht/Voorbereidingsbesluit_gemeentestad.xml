@@ -45,7 +45,7 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm0037/2020/Instelling</doel>
+                  <doel>/join/id/proces/gm0037/2020/vb100001</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0037/2020/VBG0001/nld@2020-05-11</instrumentVersie>
                <eId/>
@@ -53,7 +53,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm0037/2020/Instelling</doel>
+               <doel>/join/id/proces/gm0037/2020/vb100001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2020-06-01</datum>
                <eId>art_III</eId>
