@@ -45,7 +45,7 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm0037/2020/Instelling</doel>
+                  <doel>/join/id/proces/gm0037/2020/vb100001</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0037/2020/VBG0001/nld@2020-05-11</instrumentVersie>
                <eId/>
@@ -53,7 +53,7 @@
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm0037/2020/Instelling</doel>
+               <doel>/join/id/proces/gm0037/2020/vb100001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2020-06-01</datum>
                <eId>art_III</eId>
@@ -151,7 +151,7 @@
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Vergunningplicht</Al>
-                              <Al>Ter plaatse van het werkingsgebied van de functie 'Karakteristiek gebouw' is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
+                              <Al>Ter plaatse van het werkingsgebied van de functie 'Karakteristiek pand' is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
                            </Inhoud>
                         </Lid>
                         <Lid eId="chp_2__art_2.1__para_2" wId="gm0037_1.0__chp_2__art_2.1__para_2">
