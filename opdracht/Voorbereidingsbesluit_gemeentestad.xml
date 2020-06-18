@@ -48,15 +48,30 @@
                   <doel>/join/id/proces/gm0037/2020/vb100001</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0037/2020/VBG0001/nld@2020-05-11</instrumentVersie>
-               <eId/>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
+         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm0037/2020/intrekking_vb100001</doel>
+               </doelen>
+               <instrument>/akn/nl/bill/gm0037/2020/VBG0001</instrument>
+               <eId>art_IV</eId>
+            </Intrekking>
+         </Intrekkingen>
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/gm0037/2020/vb100001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2020-06-01</datum>
                <eId>art_III</eId>
+            </Tijdstempel>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm0037/2020/intrekking_vb100001</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-12-01</datum>
+               <eId>art_IV</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
@@ -101,6 +116,15 @@
                   <Al>Dit voorbereidingsbesluit treedt in werking op de dag waarop het bekend wordt gemaakt;</Al>
                </Inhoud>
             </Artikel>
+            <Artikel eId="art_IV" wId="gm0037_1.0__art_IV">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>IV</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>De voorbeschermingsregels vervallen 1 jaar en 6 maanden na de dag van bekendmaking van dit besluit.</Al>
+               </Inhoud>
+            </Artikel> 
          </Lichaam>
          <Sluiting eId="formula_2" wId="formula_2">
             <Al>Aldus besloten in de vergadering d.d. …</Al>
