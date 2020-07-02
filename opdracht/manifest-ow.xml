@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow ../xsd/bestanden-ow/generiek/manifest-ow.xsd">
   <domein>omgevingswet</domein>
   <Aanlevering>
-    <WorkIDRegeling>/akn/nl/act/gm0037/2020/VBG0001</WorkIDRegeling>
-    <DoelID>/join/id/proces/gm0037/2020/Instelling</DoelID>
+    <WorkIDRegeling>/akn/nl/act/gm0297/2020/VBG0001</WorkIDRegeling>
+    <DoelID>/join/id/proces/gm0297/2020/Instelling</DoelID>
     <Bestand>
       <naam>owActiviteit_voorbereidingsbesluit.xml</naam>
       <objecttype>Activiteit</objecttype>

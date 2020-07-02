@@ -30,32 +30,32 @@
         <!-- Artikel 2.1 paragraaf 1-->
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.1__para_1">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000013</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.1__para_1">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000013</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000018</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000013"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000013"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                     <r:gebiedsaanwijzing>
-                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0037.gebiedsaanwijzing.2020000003"/>
+                        <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.2020000003"/>
                     </r:gebiedsaanwijzing>
                     <r:activiteitaanduiding>
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000770"/>
+                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000770"/>
                         <r:ActiviteitLocatieaanduiding>
-                            <r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000012</r:identificatie>
+                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
                             <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                             <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                             </r:locatieaanduiding>
                         </r:ActiviteitLocatieaanduiding>
                     </r:activiteitaanduiding>
@@ -65,29 +65,29 @@
         <!-- Artikel 2.1 paragraaf 2-->
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.1__para_2">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000014</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.1__para_2">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000014</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000019</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000019</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000014"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000014"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                     <r:activiteitaanduiding>
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000770"/>
+                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000770"/>
                         <r:ActiviteitLocatieaanduiding>
-                            <r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000012</r:identificatie>
+                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
                             <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                             <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                             </r:locatieaanduiding>
                         </r:ActiviteitLocatieaanduiding>
                     </r:activiteitaanduiding>
@@ -96,105 +96,105 @@
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.2">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000015</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.2">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000015</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000020</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000020</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000015"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000015"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.3">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000016</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.3">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000016</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000021</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000021</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000016"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000016"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>
         </sl:stand>
             <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.4">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000017</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.4">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000017</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000022</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000022</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000017"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000017"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.5">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000018</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.5">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000018</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000023</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000023</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000018"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000018"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm0037_1.0__chp_2__art_2.6">
-                    <r:identificatie>nl.imow-gm0037.regeltekst.2020000019</r:identificatie>
+                <r:Regeltekst wId="gm0297_1.0__chp_2__art_2.6">
+                    <r:identificatie>nl.imow-gm0297.regeltekst.2020000019</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0037.juridischeregel.2019000024</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000024</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2020000019"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2020000019"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2020000013"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>
