@@ -16,7 +16,7 @@
     xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
     xmlns:g-ref="http://www.geostandaarden.nl/imow/geometrie-ref"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand file:/F:/DSO/Geonovum/GitHub/xml_voorbereidingsbesluit_gemeente_1.0/xsd/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+    xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.2/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
     <sl:standBestand>
         <sl:dataset>Gemeentestad</sl:dataset>
         <sl:inhoud>
