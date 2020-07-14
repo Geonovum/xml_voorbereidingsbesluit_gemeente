@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
                     schemaversie="1.0">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -21,11 +20,10 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
       </BesluitMetadata>
-      <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <Procedureverloop>
-            <bekendOp>2020-05-11</bekendOp>
-            <ontvangenOp>2020-05-11</ontvangenOp>
-            <procedurestappen>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2020-05-11</bekendOp>
+         <ontvangenOp>2020-05-11</ontvangenOp>
+         <procedurestappen>
                <Procedurestap>
                   <soortStap>/join/id/stop/procedure/stap_001</soortStap><!-- ? deze stap komt (niet) meer voor in de waardelijsten -->
                   <voltooidOp>2020-05-11</voltooidOp>
@@ -39,8 +37,7 @@
                   <voltooidOp>2020-06-01</voltooidOp>
                </Procedurestap>
             </procedurestappen>
-         </Procedureverloop>
-      </Procedure>
+        </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
@@ -91,22 +88,22 @@
             <Al>besluit:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
-            <WijzigArtikel eId="art_I" wId="gm0297_1.0__art_I">
+            <Artikel eId="art_I" wId="gm0297_1.0__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
-            </WijzigArtikel>
-            <Artikel eId="art_II" wId="gm0297_1.0__art_II">
+               <Inhoud>
+                  <Al>Met het oog op de voorbereiding van in het omgevingsplan te stellen regels een voorbereidingsbesluit te nemen.</Al>
+               </Inhoud>
+            </Artikel>
+            <WijzigArtikel eId="art_II" wId="gm0297_1.0__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Inhoud>
-                  <Al>Met het oog op in het omgevingsplan te stellen regels wordt een wijziging van het omgevingsplan voorbereid.</Al>
-               </Inhoud>
-            </Artikel>
+               <Wat>Voor het omgevingsplan gelden de voorbeschermingsregels die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
+            </WijzigArtikel>
             <Artikel eId="art_III" wId="gm0297_1.0__art_III">
                <Kop>
                   <Label>Artikel</Label>
@@ -141,12 +138,6 @@
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
-                     <Hoofdstuk wId="chp_1" eId="gm0297_1.0__chp_1">
-                        <Kop>
-                           <Label>Hoofdstuk</Label>
-                           <Nummer>1</Nummer>
-                           <Opschrift>Voorrang</Opschrift>
-                        </Kop>
                         <Artikel eId="chp_1__art_1.1" wId="gm0297_1.0__chp_1__art_1.1">
                            <Kop>
                               <Label>Artikel</Label>
@@ -157,7 +148,6 @@
                               <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende voorbeschermingsregels. Voorzover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                            </Inhoud>
                         </Artikel>
-                     </Hoofdstuk>
                   </Conditie>
                   <Hoofdstuk eId="chp_2" wId="gm0297_1.0__chp_2">
                      <Kop>
@@ -287,9 +277,11 @@
             </WorkIdentificatie>
          </isTijdelijkDeelVan>
       </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>voorbereidingsbesluit</soortRegeling>
-         <versienummer>1.0</versienummer>
          <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0297</maker>
          <officieleTitel>Voorbereidingsbesluit Gemeentestad</officieleTitel>

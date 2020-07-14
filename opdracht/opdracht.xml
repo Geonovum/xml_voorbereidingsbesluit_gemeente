@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../lvbb/lvbb-transport.xsd">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <idLevering>abc-20200228-0300</idLevering>
+    <idBevoegdGezag>00000001807288111000</idBevoegdGezag>
+    <idAanleveraar>00000001807288111000</idAanleveraar>
     <publicatie>Voorbereidingsbesluit_gemeentestad.xml</publicatie>
     <datumBekendmaking>2020-06-01</datumBekendmaking>
 </publicatieOpdracht>
