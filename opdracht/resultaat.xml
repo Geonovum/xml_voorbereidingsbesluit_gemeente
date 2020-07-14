@@ -73,7 +73,7 @@
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>Met het oog op in het omgevingsplan te stellen regels wordt een wijziging van het omgevingsplan voorbereid.</Wat>
+               <Wat>Met het oog op de voorbereiding van in het omgevingsplan te stellen regels een voorbereidingsbesluit te nemen.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="gm0037_1.0__art_II">
                <Kop>
@@ -81,7 +81,7 @@
                   <Nummer>II</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Voor het omgevingsplan gelden de voorbeschermingsregels die zijn vastgelegd in bijlage I.</Al>
+                  <Al>Voor het omgevingsplan de voorbeschermingsregels vast te stellen die zijn vastgelegd in bijlage I.</Al>
                </Inhoud>
             </Artikel>
             <Artikel eId="art_III" wId="gm0037_1.0__art_III">
@@ -90,7 +90,7 @@
                   <Nummer>III</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Dit voorbereidingsbesluit treedt in werking op de dag waarop het bekend wordt gemaakt;</Al>
+                  <Al>Dit voorbereidingsbesluit treedt in werking op de dag waarop het bekend wordt gemaakt.</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
@@ -134,7 +134,7 @@
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Vergunningplicht</Al>
-                              <Al>Ter plaatse van het werkingsgebied van de functie 'Karakteristiek gebouw' is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
+                              <Al>Ter plaatse van het werkingsgebied van de functie 'Karakteristiek pand' is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
                            </Inhoud>
                         </Lid>
                         <Lid eId="chp_1__art_1.2__para_2" wId="gm0037_1.0__chp_1__art_1.2__para_2">
