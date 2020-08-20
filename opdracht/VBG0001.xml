@@ -24,7 +24,7 @@
          <ontvangenOp>2020-08-20</ontvangenOp>
          <procedurestappen>
             <Procedurestap>
-               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
                <voltooidOp>2020-08-20</voltooidOp>
             </Procedurestap>
          </procedurestappen>
@@ -57,7 +57,7 @@
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>Voor het omgevingsplan gelden de voorbeschermingsregels die zijn vastgelegd in bijlage I.</Wat>
+               <Wat>Voor het omgevingsplan de voorbeschermingsregels vast te stellen die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="gm0297_1__art_II">
                <Kop>
@@ -65,7 +65,7 @@
                   <Nummer>II</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Met het oog op in het omgevingsplan te stellen regels wordt een wijziging van het omgevingsplan voorbereid.</Al>
+                  <Al>Met het oog op de voorbereiding van in het omgevingsplan te stellen regels een voorbereidingsbesluit te nemen.</Al>
                </Inhoud>
             </Artikel>
             <Artikel eId="art_III" wId="gm0297_1__art_III">
@@ -74,7 +74,7 @@
                   <Nummer>III</Nummer>
                </Kop>
                <Inhoud>
-                  <Al>Dit voorbereidingsbesluit treedt in werking op de dag waarop het bekend wordt gemaakt;</Al>
+                  <Al>Dit voorbereidingsbesluit treedt in werking op de dag waarop het bekend wordt gemaakt.</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
@@ -86,68 +86,61 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
-               <Opschrift>Voorbeschermingsregels</Opschrift>
+               <Opschrift>Bij artikel II Voorbeschermingsregels</Opschrift>
             </Kop>
-            <RegelingCompact componentnaam="initieel_reg" wordt="/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1">
+            <RegelingTijdelijkdeel>
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeeld voorbereidingsbesluit van gemeente Gemeentestad gericht op eigen omgevingsplan</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
-                  <Hoofdstuk eId="chp_1" wId="gm0297_1__chp_1">
-                     <Kop>
-                        <Label>Hoofdstuk</Label>
-                        <Nummer>1</Nummer>
-                        <Opschrift>Voorrang</Opschrift>
-                     </Kop>
-                     <Artikel eId="chp_1__art_1.1" wId="gm0297_1__chp_1__art_1.1">
+                  <Conditie>
+                     <Artikel eId="art_o_1" wId="gm0297_1__art_o_1">
                         <Kop>
-                           <Label>Artikel</Label>
-                           <Nummer>1.1</Nummer>
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
                         <Inhoud>
                            <Al>In aanvulling op en/of in afwijking van de bepalingen in het omgevingsplan gelden de navolgende voorbeschermingsregels. Voor zover deze voorbeschermingsregels afwijken van de regels van het omgevingsplan gelden alleen de voorbeschermingsregels.</Al>
                         </Inhoud>
                      </Artikel>
-                  </Hoofdstuk>
-                  <Hoofdstuk eId="chp_2" wId="gm0297_1__chp_2">
+                  </Conditie>
+                  <Hoofdstuk eId="chp_1" wId="gm0297_1__chp_1">
                      <Kop>
                         <Label>Hoofdstuk</Label>
-                        <Nummer>2</Nummer>
+                        <Nummer>1</Nummer>
                         <Opschrift>Voorbeschermingsregels</Opschrift>
                      </Kop>
-                     <Artikel eId="chp_2__art_2.1" wId="gm0297_1__chp_2__art_2.1">
+                     <Artikel eId="chp_1__art_1.1" wId="gm0297_1__chp_1__art_1.1">
                         <Kop>
                            <Label>Artikel</Label>
-                           <Nummer>2.1</Nummer>
+                           <Nummer>1.1</Nummer>
                            <Opschrift>Vergunningplicht karakteristieke panden</Opschrift>
                         </Kop>
-                        <Lid eId="chp_2__art_2.1__para_1" wId="gm0297_1__chp_2__art_2.1__para_1">
+                        <Lid eId="chp_1__art_1.1__para_1" wId="gm0297_1__chp_1__art_1.1__para_1">
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
-                              <Al>Vergunningplicht<br/>Ter plaatse van het werkingsgebied van de functie 'Karakteristiek gebouw' is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
+                              <Al>Vergunningplicht<br/>Ter plaatse van het werkingsgebied van de functie 'Karakteristiek pand' is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
                            </Inhoud>
                         </Lid>
-                        <Lid eId="chp_2__art_2.1__para_2" wId="gm0297_1__chp_2__art_2.1__para_2">
+                        <Lid eId="chp_1__art_1.1__para_2" wId="gm0297_1__chp_1__art_1.1__para_2">
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Uitzondering vergunningplicht</Al>
-                              <Lijst eId="chp_2__art_2.1__para_2__list_o_1"
-                                     wId="gm0297_1__chp_2__art_2.1__para_2__list_o_1"
+                              <Lijst eId="chp_1__art_1.1__para_2__list_o_1"
+                                     wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1"
                                      type="expliciet">
                                  <Lijstaanhef>Het verbod van dit artikel geldt niet voor:</Lijstaanhef>
-                                 <Li eId="chp_2__art_2.1__para_2__list_o_1__item_a"
-                                     wId="gm0297_1__chp_2__art_2.1__para_2__list_o_1__item_a">
+                                 <Li eId="chp_1__art_1.1__para_2__list_o_1__item_a"
+                                     wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
                                     <Al>slopen op grond van een maatwerkvoorschrift of van een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom;</Al>
                                  </Li>
-                                 <Li eId="chp_2__art_2.1__para_2__list_o_1__item_b"
-                                     wId="gm0297_1__chp_2__art_2.1__para_2__list_o_1__item_b">
+                                 <Li eId="chp_1__art_1.1__para_2__list_o_1__item_b"
+                                     wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1__item_b">
                                     <LiNummer>b.</LiNummer>
                                     <Al>sloopwerkzaamheden die in redelijkheid kunnen worden aangemerkt als sloopwerkzaamheden van ondergeschikte aard en omvang, zodat enige wezenlijke invloed op de cultuurhistorisch waardevolle bebouwing niet te verwachten is;</Al>
                                  </Li>
-                                 <Li eId="chp_2__art_2.1__para_2__list_o_1__item_c"
-                                     wId="gm0297_1__chp_2__art_2.1__para_2__list_o_1__item_c">
+                                 <Li eId="chp_1__art_1.1__para_2__list_o_1__item_c"
+                                     wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1__item_c">
                                     <LiNummer>c.</LiNummer>
                                     <Al>sloopwerkzaamheden waarvoor voorafgaand aan het inwerkingtreden van dit voorbereidingsbesluit een omgevingsvergunning is verleend.</Al>
                                  </Li>
@@ -155,73 +148,73 @@
                            </Inhoud>
                         </Lid>
                      </Artikel>
-                     <Artikel eId="chp_2__art_2.2" wId="gm0297_1__chp_2__art_2.2">
+                     <Artikel eId="chp_1__art_1.2" wId="gm0297_1__chp_1__art_1.2">
                         <Kop>
                            <Label>Artikel</Label>
-                           <Nummer>2.2</Nummer>
+                           <Nummer>1.2</Nummer>
                            <Opschrift>Beoordelingsregels</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Lijst eId="chp_2__art_2.2__list_o_1"
-                                  wId="gm0297_1__chp_2__art_2.2__list_o_1"
+                           <Lijst eId="chp_1__art_1.2__list_o_1"
+                                  wId="gm0297_1__chp_1__art_1.2__list_o_1"
                                   type="expliciet">
-                              <Lijstaanhef>De in artikel 2.1 bedoelde omgevingsvergunning wordt alleen verleend in de volgende gevallen:</Lijstaanhef>
-                              <Li eId="chp_2__art_2.2__list_o_1__item_a"
-                                  wId="gm0297_1__chp_2__art_2.2__list_o_1__item_a">
+                              <Lijstaanhef>De in artikel 1.1 bedoelde omgevingsvergunning wordt alleen verleend in de volgende gevallen:</Lijstaanhef>
+                              <Li eId="chp_1__art_1.2__list_o_1__item_a"
+                                  wId="gm0297_1__chp_1__art_1.2__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
                                  <Al>het betreft een onderdeel van het gebouw dat niet of in onvoldoende mate bepalend is voor de cultuurhistorische waarde van het gebouw;</Al>
                               </Li>
-                              <Li eId="chp_2__art_2.2__list_o_1__item_b"
-                                  wId="gm0297_1__chp_2__art_2.2__list_o_1__item_b">
+                              <Li eId="chp_1__art_1.2__list_o_1__item_b"
+                                  wId="gm0297_1__chp_1__art_1.2__list_o_1__item_b">
                                  <LiNummer>b.</LiNummer>
                                  <Al>uit onderbouwing van de aanvraag blijkt dat handhaving van het gebouw redelijkerwijs niet kan worden geëist, gezien de huidige bouwkundige en/of gebruikstechnische staat van het gebouw in verhouding tot de waardedaling en de kosten van renovatie. De aanvrager dient daartoe bij de aanvraag om omgevingsvergunning een deskundigenrapport te overleggen dat ingaat op de genoemde aspecten.</Al>
                               </Li>
                            </Lijst>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_2__art_2.3" wId="gm0297_1__chp_2__art_2.3">
+                     <Artikel eId="chp_1__art_1.3" wId="gm0297_1__chp_1__art_1.3">
                         <Kop>
                            <Label>Artikel</Label>
-                           <Nummer>2.3</Nummer>
+                           <Nummer>1.3</Nummer>
                            <Opschrift>Advies</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Alvorens de in artikel 2.1 bedoelde omgevingsvergunning te verlenen vraagt het bevoegd gezag advies aan de gemeentelijke monumentencommissie over de aanvraag en de toepassing van de beoordelingsregels van artikel 2.2.</Al>
+                           <Al>Alvorens de in artikel 1.1 bedoelde omgevingsvergunning te verlenen vraagt het bevoegd gezag advies aan de gemeentelijke monumentencommissie over de aanvraag en de toepassing van de beoordelingsregels van artikel 1.2.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_2__art_2.4" wId="gm0297_1__chp_2__art_2.4">
+                     <Artikel eId="chp_1__art_1.4" wId="gm0297_1__chp_1__art_1.4">
                         <Kop>
                            <Label>Artikel</Label>
-                           <Nummer>2.4</Nummer>
+                           <Nummer>1.4</Nummer>
                            <Opschrift>Buitentoepassingverklaring</Opschrift>
                         </Kop>
                         <Inhoud>
                            <Al>De bepalingen over het verrichten van de sloopactiviteit van artikel 5.81 van het omgevingsplan worden voor het gebied van dit voorbereidingsbesluit buiten toepassing verklaard.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_2__art_2.5" wId="gm0297_1__chp_2__art_2.5">
+                     <Artikel eId="chp_1__art_1.5" wId="gm0297_1__chp_1__art_1.5">
                         <Kop>
                            <Label>Artikel</Label>
-                           <Nummer>2.5</Nummer>
+                           <Nummer>1.5</Nummer>
                            <Opschrift>Bevoegdheid tot verbinden voorschriften aan omgevingsvergunning</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het bevoegd gezag kan aan een omgevingsvergunning als bedoeld in artikel 2.1 de voorschriften verbinden die met het oog op het behoud van de cultuurhistorische waarde van het gebouw noodzakelijk zijn.</Al>
+                           <Al>Het bevoegd gezag kan aan een omgevingsvergunning als bedoeld in artikel 1.1 de voorschriften verbinden die met het oog op het behoud van de cultuurhistorische waarde van het gebouw noodzakelijk zijn.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_2__art_2.6" wId="gm0297_1__chp_2__art_2.6">
+                     <Artikel eId="chp_1__art_1.6" wId="gm0297_1__chp_1__art_1.6">
                         <Kop>
                            <Label>Artikel</Label>
-                           <Nummer>2.6</Nummer>
+                           <Nummer>1.6</Nummer>
                            <Opschrift>Bevoegdheid tot stellen maatwerkvoorschriften</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het bevoegd gezag kan maatwerkvoorschriften stellen wanneer dat met het oog op het behoud van de cultuurhistorische waarde van een gebouw ter plaatse van het werkingsgebied van de functie ‘Karakteristiek gebouw’ noodzakelijk is.</Al>
+                           <Al>Het bevoegd gezag kan maatwerkvoorschriften stellen wanneer dat met het oog op het behoud van de cultuurhistorische waarde van een gebouw ter plaatse van het werkingsgebied van de functie ‘Karakteristiek pand’ noodzakelijk is.</Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
                </Lichaam>
-            </RegelingCompact>
+            </RegelingTijdelijkdeel>
          </WijzigBijlage>
       </BesluitCompact>
    </BesluitVersie>
