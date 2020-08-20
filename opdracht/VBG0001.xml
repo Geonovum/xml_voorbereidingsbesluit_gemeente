@@ -52,22 +52,22 @@
             <Al>besluit:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
-            <WijzigArtikel eId="art_I" wId="gm0297_1__art_I">
+            <Artikel eId="art_I" wId="gm0297_1__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
-               </Kop>
-               <Wat>Voor het omgevingsplan de voorbeschermingsregels vast te stellen die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
-            </WijzigArtikel>
-            <Artikel eId="art_II" wId="gm0297_1__art_II">
-               <Kop>
-                  <Label>Artikel</Label>
-                  <Nummer>II</Nummer>
                </Kop>
                <Inhoud>
                   <Al>Met het oog op de voorbereiding van in het omgevingsplan te stellen regels een voorbereidingsbesluit te nemen.</Al>
                </Inhoud>
             </Artikel>
+            <WijzigArtikel eId="art_II" wId="gm0297_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Wat>Voor het omgevingsplan de voorbeschermingsregels vast te stellen die zijn vastgelegd in <IntRef ref="cmp_I">bijlage I</IntRef>.</Wat>
+            </WijzigArtikel>
             <Artikel eId="art_III" wId="gm0297_1__art_III">
                <Kop>
                   <Label>Artikel</Label>
@@ -88,7 +88,7 @@
                <Nummer>I</Nummer>
                <Opschrift>Bij artikel II Voorbeschermingsregels</Opschrift>
             </Kop>
-            <RegelingTijdelijkdeel>
+            <RegelingTijdelijkdeel componentnaam="initieel_reg" wordt="/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeeld voorbereidingsbesluit van gemeente Gemeentestad gericht op eigen omgevingsplan</Al>
                </RegelingOpschrift>
