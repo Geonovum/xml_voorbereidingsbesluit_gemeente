@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest xmlns="http://www.overheid.nl/2017/lvbb"
-          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns:stop="http://www.overheid.nl/2017/stop"
-          xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../lvbb/lvbb-transport.xsd">
-   <bestand>
-      <bestandsnaam>GIO001-Karakteristieke_gebouwen.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>Karakteristieke_gebouwen.gml</bestandsnaam>
-      <contentType>application/gml+xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>opdracht.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>owActiviteit_voorbereidingsbesluit.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>owGebiedsaanwijzing_voorbereidingsbesluit.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>owLocaties_voorbereidingsbesluit.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>owRegeltekst_voorbereidingsbesluit.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>Voorbereidingsbesluit_gemeentestad.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-</manifest>
+<lvbb:manifest xmlns:lvbb="http://www.overheid.nl/2017/lvbb">
+   <!-- OP-bestanden -->
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>opdracht.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>VBG0001.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>manifest.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+</lvbb:manifest>
