@@ -49,6 +49,15 @@
                <eId>art_II</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
+         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
+               </doelen>
+               <instrument>/akn/nl/act/gm0297/2020/VBG0001</instrument>
+               <eId>art_IV</eId>
+            </Intrekking>
+         </Intrekkingen>
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/gm0297/2020/vb100001</doel>
