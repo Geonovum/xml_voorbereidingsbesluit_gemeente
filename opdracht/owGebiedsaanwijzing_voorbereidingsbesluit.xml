@@ -30,11 +30,11 @@
             <ow-dc:owObject>
                 <ga:Gebiedsaanwijzing>
                     <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2020000003</ga:identificatie>
-                    <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+                    <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Erfgoed</ga:type>
                     <ga:naam>Karakteristiek gebouw</ga:naam>
-                    <ga:groep>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Erfgoed</ga:groep>
+                    <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/CultureelErfgoed</ga:groep>
                     <ga:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000013"/>
                     </ga:locatieaanduiding>
                 </ga:Gebiedsaanwijzing>
             </ow-dc:owObject>
