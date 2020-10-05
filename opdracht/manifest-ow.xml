@@ -5,7 +5,7 @@
   <domein>omgevingswet</domein>
   <Aanlevering>
     <WorkIDRegeling>/akn/nl/act/gm0297/2020/VBG0001</WorkIDRegeling>
-    <DoelID>/join/id/proces/gm0297/2020/Instelling</DoelID>
+    <DoelID>/join/id/proces/gm0297/2020/vb100001</DoelID>
     <Bestand>
       <naam>owActiviteit_voorbereidingsbesluit.xml</naam>
       <objecttype>Activiteit</objecttype>
@@ -26,10 +26,6 @@
     <Bestand>
       <naam>owRegelingsgebied.xml</naam>
       <objecttype>Regelingsgebied</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Karakteristieke_gebouwen.gml</naam>
-      <objecttype>Geometrie</objecttype>
     </Bestand>
   </Aanlevering>
 </Aanleveringen>
