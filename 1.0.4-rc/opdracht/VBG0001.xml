@@ -83,8 +83,9 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <eId>2022-04-01</eId> 
-               <!--1 jaar en zes maanden later wordt het voorbereidingsbesluit ingetrokken-->
+               <datum>2022-04-01</datum>
+               <eId>art_III</eId>
+                <!--1 jaar en zes maanden later wordt het voorbereidingsbesluit ingetrokken-->
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
