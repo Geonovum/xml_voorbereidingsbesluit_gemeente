@@ -43,7 +43,7 @@
                   <doel>/join/id/proces/gm0297/2020/vb100001</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1</instrumentVersie>
-               <eId>art_I</eId>
+               <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
@@ -59,7 +59,7 @@
                   <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
                </doelen>
                <instrument>/akn/nl/act/gm0297/2020/VBG0001</instrument>
-               <eId>art_III</eId>
+               <eId>art_IV</eId>
             </Intrekking>
          </Intrekkingen>
          <Tijdstempels>
@@ -72,7 +72,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2022-04-01</datum> <!--1 jaar en zes maanden later wordt het voorbereidingsbesluit ingetrokken-->
+               <datum>2022-02-01</datum> <!--1 jaar en zes maanden later wordt het voorbereidingsbesluit ingetrokken-->
                <eId>art_III</eId>
             </Tijdstempel>
          </Tijdstempels>
