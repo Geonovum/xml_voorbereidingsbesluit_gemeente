@@ -62,27 +62,11 @@
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
-         <Intrekkingen>
-            <Intrekking>
-               <doelen>
-                  <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
-               </doelen>
-               <instrument>/akn/nl/act/gm0297/2020/VBG0001</instrument>
-               <eId>art_IV</eId>
-            </Intrekking>
-         </Intrekkingen>
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/gm0297/2020/vb100001</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2020-08-20</datum>
-               <eId>art_III</eId>
-            </Tijdstempel>
-            <Tijdstempel>
-               <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
-               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2022-02-01</datum> 
-               <!--1 jaar en zes maanden later wordt het voorbereidingsbesluit ingetrokken-->
                <eId>art_III</eId>
             </Tijdstempel>
          </Tijdstempels>

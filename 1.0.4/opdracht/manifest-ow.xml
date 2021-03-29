@@ -28,29 +28,4 @@
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
    </Aanlevering>
-   <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/gm0297/2020/VBG0001</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm0297/2020/intrekking_vb100001</DoelID>
-      <Bestand>
-         <naam>owActiviteit_voorbereidingsbesluit_intrekking.xml</naam>
-         <objecttype>Activiteit</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owGebiedsaanwijzing_voorbereidingsbesluit_intrekking.xml</naam>
-         <objecttype>Gebiedsaanwijzing</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owLocaties_voorbereidingsbesluit_intrekking.xml</naam>
-         <objecttype>Gebied</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owRegeltekst_voorbereidingsbesluit_intrekking.xml</naam>
-         <objecttype>Regeltekst</objecttype>
-         <objecttype>RegelVoorIedereen</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owRegelingsgebied_intrekking.xml</naam>
-         <objecttype>Regelingsgebied</objecttype>
-      </Bestand>
-   </Aanlevering>
 </Aanleveringen>
