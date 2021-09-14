@@ -66,7 +66,7 @@
                   <doel>/join/id/proces/gm0297/2021/wijzigenomgevingsplan</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2021-09-01;3520</instrumentVersie>
-               <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
@@ -81,7 +81,7 @@
                <doel>/join/id/proces/gm0297/2021/wijzigenomgevingsplan</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-08-20</datum>
-               <eId>art_III</eId>
+               <eId>art_IV</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
@@ -248,7 +248,7 @@
                <Nummer>II</Nummer>
                <Opschrift>Bij artikel III wijziging van voorbeschermingsregels</Opschrift>
             </Kop>
-            <RegelingMutatie componentnaam="voorbeschermingwijziging" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2021-09-01;1" was="/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1">
+            <RegelingMutatie componentnaam="voorbeschermingwijziging" wordt="/akn/nl/act/gm0297/2020/VBG0001/nld@2021-09-01;1" was="/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1">
                <Vervang wat="gm0297_1__chp_1__art_1.1">
                   <Artikel eId="chp_1__art_1.1" wId="gm0297_1__chp_1__art_1.1">
                      <Kop>
