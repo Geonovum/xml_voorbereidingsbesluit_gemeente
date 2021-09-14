@@ -54,13 +54,6 @@
                <instrument>/akn/nl/act/gm0297/2020/VBG0001</instrument>
                <eId>art_I</eId>
             </Intrekking>
-            <Intrekking>
-               <doelen>
-                  <doel>/join/id/proces/gm0297/2020/intrekking_vb100001</doel>
-               </doelen>
-               <instrument/>
-               <eId>art_I</eId>
-            </Intrekking>
          </Intrekkingen>
          <Tijdstempels>
             <Tijdstempel>
