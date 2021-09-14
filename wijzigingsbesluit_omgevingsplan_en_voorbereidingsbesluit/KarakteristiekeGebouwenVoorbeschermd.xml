@@ -15,8 +15,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Karakteristieke_gebouwen.gml</bestandsnaam>
-                  <hash>d2781bc9f7a0587c6496db2b24617c57d44b689e4accd1b0c954947cea685b3e7c403bdbf6e20bf355bd118557c6f29e3f0cc83afb7333cfb67fdf0a00a50d65</hash>
+                  <bestandsnaam>KarakteristiekeGebouwenVoorbeschermd.gml</bestandsnaam>
+                  <hash>2921069fd9d16e1f030a68c9a2bbf04b3b41f5c833d2171113c47a79b6f7ed04bb1eda8c4b75b23b58612efb568797c47a2a6a7194004b20e851b5d1865cb2a1</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -28,7 +28,7 @@
          <alternatieveTitels>
             <alternatieveTitel>Karakteristieke gebouwen</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen_nogVoorbeschermd</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
