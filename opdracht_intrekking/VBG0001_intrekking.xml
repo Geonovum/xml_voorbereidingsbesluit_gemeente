@@ -93,42 +93,4 @@
          </Sluiting>
       </BesluitCompact>
    </BesluitVersie>
-   <RegelingVersieInformatie>
-      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/gm0297/2020/VBG0001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1</FRBRExpression>
-         <soortWork>/join/id/stop/work_021</soortWork>
-         <isTijdelijkDeelVan>
-            <WorkIdentificatie>
-               <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-               <soortWork>/join/id/stop/work_019</soortWork>
-            </WorkIdentificatie>
-         </isTijdelijkDeelVan>
-      </ExpressionIdentificatie>
-      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <versienummer>2</versienummer>
-      </RegelingVersieMetadata>
-      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>/join/id/stop/regelingtype_009</soortRegeling>
-         <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm0297</maker>
-         <!--soortBestuursorgaan is 'gemeenteraad'.-->
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-         <officieleTitel>Voorbeeld voorbereidingsbesluit van gemeente Gemeentestad gericht op eigen omgevingsplan</officieleTitel>
-         <alternatieveTitels>
-            <alternatieveTitel>Voorbereidingsbesluit Gemeentestad</alternatieveTitel>
-         </alternatieveTitels>
-         <overheidsdomeinen>
-            <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
-         </overheidsdomeinen>
-         <onderwerpen>
-            <onderwerp>/tooi/def/concept/c_2408fb5a</onderwerp>
-            <!-- cultureel erfgoed -->
-         </onderwerpen>
-         <rechtsgebieden>
-            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
-            <!-- ruimtelijke ordening en milieu -->
-         </rechtsgebieden>
-      </RegelingMetadata>
-   </RegelingVersieInformatie>
 </AanleveringBesluit>
