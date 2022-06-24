@@ -26,7 +26,7 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2021-03-01;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2021-09-01;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen_nogVoorbeschermd/nld@2021-09-01;3520</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
@@ -59,7 +59,7 @@
                <doelen>
                   <doel>/join/id/proces/gm0297/2021/wijzigenomgevingsplan</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2021-09-01;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@10</instrumentVersie>
                <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
@@ -67,15 +67,14 @@
                   <doel>/join/id/proces/gm0297/2021/wijzigenomgevingsplan</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2021-09-01;3520</instrumentVersie>
-               <eId>!wijziging#cmp_I__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+               <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm0297/2021/wijzigenomgevingsplan</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen_nogVoorbeschermd/nld@2021-09-01;3520</instrumentVersie>
-               <eId>
-!voorbeschermingwijziging#cmp_I__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!voorbeschermingwijziging#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -113,7 +112,7 @@
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
                </Kop>
-               <Wat>De wijziging van het omgevingsplan is vastgelegd in <IntRef ref="cmp_I__cmp_I" scope="WijzigBijlage">bijlage I</IntRef>.</Wat>
+               <Wat>De wijziging van het omgevingsplan is vastgelegd in <IntRef ref="cmp_I" scope="WijzigBijlage">bijlage I</IntRef>.</Wat>
             </WijzigArtikel>
             <WijzigArtikel eId="art_III" wId="gm0297_2__art_III">
                <Kop>
@@ -142,131 +141,125 @@
                <Nummer>I</Nummer>
                <Opschrift>Bij artikel II wijziging van omgevingsplan</Opschrift>
             </Kop>
-            <RegelingMutatie wordt="/akn/nl/act/gm0297/2019/reg456/nld@2021-09-01;1"
-                             was="/akn/nl/act/gm0297/2019/reg456/nld@1"
+            <RegelingMutatie wordt="/akn/nl/act/gm0297/2019/reg456/nld@10"
+               was="/akn/nl/act/gm0297/2019/reg456/nld@9"
                              componentnaam="wijziging">
                <VoegToe context="gm0297_1__chp_2__subchp_2.5__art_2.15" positie="volgtOp">
-                  <Artikel eId="cmp_I__art_2.20" wId="gm0297_2__cmp_I__art_2.20">
+                  <Artikel eId="chp_2__subchp_2.5__art_2.20" wId="gm0297_1__chp_2__subchp_2.5__art_2.20">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>2.20</Nummer>
                         <Opschrift>Karakteristieke gebouwen</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Al>Het is verboden om activiteiten te ontplooien die schade kunnen verrichten aan de <IntIoRef eId="cmp_I__art_2.20__ref_o_1"
-                                     wId="gm0297_2__cmp_I__art_2.20__ref_o_1"
+                        <Al>Het is verboden om activiteiten te ontplooien die schade kunnen verrichten aan de <IntIoRef eId="gm0297_1__chp_2__subchp_2.5__art_2.20__ref_o_1"
+                           wId="gm0297_1__chp_2__subchp_2.5__art_2.20__ref_o_1"
                                      ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">karakteristieke gebouwen</IntIoRef>.</Al>
                      </Inhoud>
                   </Artikel>
                </VoegToe>
-               <Vervang wat="gm0297_1__cmp_I">
-                  <Bijlage eId="cmp_I__cmp_I" wId="gm0297_2__cmp_I__cmp_I">
-                     <Kop>
-                        <Label>Bijlage</Label>
-                        <Nummer>I</Nummer>
-                        <Opschrift>Overzicht Informatieobjecten</Opschrift>
-                     </Kop>
-                     <Divisietekst eId="cmp_I__cmp_I__content_o_1"
-                                   wId="gm0297_2__cmp_I__cmp_I__content_o_1">
+               <Vervang wat="gm0297_1__cmp_I__content_o_1">
+                     <Divisietekst eId="cmp_I__content_o_1"
+                                   wId="gm0297_1__cmp_I__content_o_1">
                         <Inhoud>
-                           <Begrippenlijst eId="cmp_I__cmp_I__content_o_1__list_o_1"
-                                           wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1">
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_1"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_1">
+                           <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                           wId="gm0297_1__cmp_I__content_o_1__list_o_1">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1">
                                  <Term>Bedrijf categorie 2</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_2"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_2">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2">
                                  <Term>Centrumgebied</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_3"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_3">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3">
                                  <Term>Exploiteren speelautomatenhal</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_4"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_4"
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4"
                                       wijzigactie="voegtoe">
                                  <Term>Karakteristieke Gebouwen</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2021-09-01;3520">/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2021-09-01;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_5"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_5">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5">
                                  <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_6"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_6">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
                                  <Term>Welstandsniveau</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_7"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_7">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
                                  <Term>Zone A</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_8"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_8">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
                                  <Term>Zone B</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_9"
-                                      wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_9">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
                                  <Term>Zuilichem</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_I__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                                 wId="gm0297_2__cmp_I__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
@@ -274,7 +267,6 @@
                            </Begrippenlijst>
                         </Inhoud>
                      </Divisietekst>
-                  </Bijlage>
                </Vervang>
             </RegelingMutatie>
          </WijzigBijlage>
@@ -288,46 +280,46 @@
                              wordt="/akn/nl/act/gm0297/2020/VBG0001/nld@2021-09-01;1"
                              was="/akn/nl/act/gm0297/2020/VBG0001/nld@2020-08-20;1">
                <Vervang wat="gm0297_1__chp_1__art_1.1">
-                  <Artikel eId="cmp_II__art_1.1" wId="gm0297_2__cmp_II__art_1.1">
+                  <Artikel eId="chp_1__art_1.1" wId="gm0297_1__chp_1__art_1.1">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>1.1</Nummer>
                         <Opschrift>Vergunningplicht karakteristieke panden</Opschrift>
                      </Kop>
-                     <Lid eId="cmp_II__art_1.1__para_1" wId="gm0297_2__cmp_II__art_1.1__para_1">
+                     <Lid eId="chp_1__art_1.1__para_1" wId="gm0297_1__chp_1__art_1.1__para_1">
                         <LidNummer>1.</LidNummer>
                         <Inhoud>
-                           <Al>Vergunningplicht<br/>Ter plaatse van het werkingsgebied van de functie <VerwijderdeTekst>'<IntIoRef eId="cmp_II__art_1.1__para_1__ref_o_1"
-                                           wId="gm0297_2__cmp_II__art_1.1__para_1__ref_o_1"
+                           <Al>Vergunningplicht<br/>Ter plaatse van het werkingsgebied van de functie <VerwijderdeTekst>'<IntIoRef eId="chp_1__art_1.1__para_1__ref_o_1_inst2"
+                              wId="gm0297_1__chp_1__art_1.1__para_1__ref_o_1_inst2"
                                            ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Karakteristiek pand</IntIoRef>'</VerwijderdeTekst>
                               <NieuweTekst>
-                                 <IntIoRef eId="cmp_II__art_1.1__para_1__ref_o_1_inst2"
-                                           wId="gm0297_2__cmp_II__art_1.1__para_1__ref_o_1_inst2"
-                                           ref="gm0297_2__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">nog beschermd karakteristiek pand</IntIoRef>
-                              </NieuweTekst>
+                                 <IntIoRef eId="chp_1__art_1.1__para_1__ref_o_1"
+                                           wId="gm0297_1__chp_1__art_1.1__para_1__ref_o_1"
+                                           ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">nog beschermd karakteristiek pand</IntIoRef>
+                              </NieuweTekst>    
                               is het vanwege de cultuurhistorische waarde van het gebouw verboden om zonder omgevingsvergunning het gebouw te slopen.</Al>
                         </Inhoud>
                      </Lid>
-                     <Lid eId="cmp_II__art_1.1__para_2" wId="gm0297_2__cmp_II__art_1.1__para_2">
+                     <Lid eId="chp_1__art_1.1__para_2" wId="gm0297_1__chp_1__art_1.1__para_2">
                         <LidNummer>2.</LidNummer>
                         <Inhoud>
                            <Al>Uitzondering vergunningplicht</Al>
-                           <Lijst eId="cmp_II__art_1.1__para_2__list_o_1"
-                                  wId="gm0297_2__cmp_II__art_1.1__para_2__list_o_1"
+                           <Lijst eId="chp_1__art_1.1__para_2__list_o_1"
+                                  wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1"
                                   type="expliciet">
                               <Lijstaanhef>Het verbod van dit artikel geldt niet voor:</Lijstaanhef>
-                              <Li eId="cmp_II__art_1.1__para_2__list_o_1__item_a"
-                                  wId="gm0297_2__cmp_II__art_1.1__para_2__list_o_1__item_a">
+                              <Li eId="chp_1__art_1.1__para_2__list_o_1__item_a"
+                                  wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
                                  <Al>slopen op grond van een maatwerkvoorschrift of van een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom;</Al>
                               </Li>
-                              <Li eId="cmp_II__art_1.1__para_2__list_o_1__item_b"
-                                  wId="gm0297_2__cmp_II__art_1.1__para_2__list_o_1__item_b">
+                              <Li eId="chp_1__art_1.1__para_2__list_o_1__item_b"
+                                  wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1__item_b">
                                  <LiNummer>b.</LiNummer>
                                  <Al>sloopwerkzaamheden die in redelijkheid kunnen worden aangemerkt als sloopwerkzaamheden van ondergeschikte aard en omvang, zodat enige wezenlijke invloed op de cultuurhistorisch waardevolle bebouwing niet te verwachten is;</Al>
                               </Li>
-                              <Li eId="cmp_II__art_1.1__para_2__list_o_1__item_c"
-                                  wId="gm0297_2__cmp_II__art_1.1__para_2__list_o_1__item_c">
+                              <Li eId="chp_1__art_1.1__para_2__list_o_1__item_c"
+                                  wId="gm0297_1__chp_1__art_1.1__para_2__list_o_1__item_c">
                                  <LiNummer>c.</LiNummer>
                                  <Al>sloopwerkzaamheden waarvoor voorafgaand aan het inwerkingtreden van dit voorbereidingsbesluit een omgevingsvergunning is verleend.</Al>
                               </Li>
@@ -337,36 +329,36 @@
                   </Artikel>
                </Vervang>
                <Vervang wat="gm0297_1__cmp_I">
-                  <Bijlage eId="cmp_II__cmp_I" wId="gm0297_2__cmp_II__cmp_I">
+                  <Bijlage eId="cmp_I" wId="gm0297_1__cmp_I">
                      <Kop>
                         <Label>Bijlage</Label>
                         <Nummer>I</Nummer>
                         <Opschrift>Overzicht Informatieobjecten</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_II__cmp_I__content_o_1"
-                                   wId="gm0297_2__cmp_II__cmp_I__content_o_1">
+                     <Divisietekst eId="cmp_I__content_o_1"
+                                   wId="gm0297_1__cmp_I__content_o_1">
                         <Inhoud>
-                           <Begrippenlijst eId="cmp_II__cmp_I__content_o_1__list_o_1"
-                                           wId="gm0297_2__cmp_II__cmp_I__content_o_1__list_o_1">
-                              <Begrip eId="cmp_II__cmp_I__content_o_1__list_o_1__item_o_1"
-                                      wId="gm0297_2__cmp_II__cmp_I__content_o_1__list_o_1__item_o_1"
+                           <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                           wId="gm0297_1__cmp_I__content_o_1__list_o_1">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1"
                                       wijzigactie="verwijder">
                                  <Term>Karakteristiek pand</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                                 wId="gm0297_2__cmp_II__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2020-02-28;3520">/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen/nld@2020-02-28;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__cmp_I__content_o_1__list_o_1__item_o_2"
-                                      wId="gm0297_2__cmp_II__cmp_I__content_o_1__list_o_1__item_o_2">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
+                                      wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2">
                                  <Term>Karakteristiek pand nog voorbeschermd</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                                 wId="gm0297_2__cmp_II__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                 wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
                                                  ref="/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen_nogVoorbeschermd/nld@2021-09-01;3520">/join/id/regdata/gm0297/2020/Karakteristieke_gebouwen_nogVoorbeschermd/nld@2021-09-01;3520</ExtIoRef>
                                     </Al>
                                  </Definitie>
@@ -427,11 +419,11 @@
    <RegelingVersieInformatie> <!--Omgevingsplan-->
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-         <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2021-09-01;1</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@10</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <versienummer>9</versienummer>
+         <versienummer>10</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling> 
